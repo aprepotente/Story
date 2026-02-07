@@ -1,0 +1,3 @@
+#Files to be ignored
+#  *.log - Asterisk means wildcard or all. So in this case, all files that has 'log' extension name
+secrets.txt
